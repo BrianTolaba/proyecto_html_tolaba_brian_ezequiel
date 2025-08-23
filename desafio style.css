@@ -1,0 +1,31 @@
+body{
+    height: 100%;
+    display: flex;
+    background-color: lightseagreen;
+    justify-content: center;
+    align-content: center;
+    position: relative;
+}
+
+div{
+    background-color: orange;
+    height: 200px;
+    width: 200px;
+    border-radius: 50% 0% 50% 50%;
+
+}
+#cuadro1{
+    background-color: lawngreen;
+    margin-top: 400px;
+    margin-left: -300px;
+}
+#cuadro2{
+    background-color: blue;
+    margin-left: -300px;
+    margin-top: 300px;
+}
+#cuadro3{
+    margin-left: -300px;
+    margin-top: 200px;
+    border-radius: 50% 50% 50% 50%
+}
